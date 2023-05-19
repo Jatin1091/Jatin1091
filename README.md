@@ -1,11 +1,6 @@
-![header]
-### <align = "center">Hi there, I'm Jatin Sharma
+![header](https://www.smartdatacollective.com/top-7-data-analytics-tools/)
+### Hi there, I'm Jatin Sharma
 
-
-**Jatin1091/Jatin1091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
- 
 - 🌱 I’m currently learning Data Science And Analytics
 - 👯 I’m looking to collaborate on Projects related to Data Science and Analytics
 - 💬 Ask me about Analytics
