@@ -1,4 +1,4 @@
- <img src="https://lh3.googleusercontent.com/tBdpfNJQJWFrag_qq2SnPaSSFlCGhTSlmb9aEi1zJlMdUjqlf2OTrrZ2zQdbpJjOTKgwNXzkKcYbhOfc3j51oWmOD8q3sqvo2qUMQNG1" width="500" height="100">
+ <img src="https://lh3.googleusercontent.com/tBdpfNJQJWFrag_qq2SnPaSSFlCGhTSlmb9aEi1zJlMdUjqlf2OTrrZ2zQdbpJjOTKgwNXzkKcYbhOfc3j51oWmOD8q3sqvo2qUMQNG1" width="1000" height="400">
  
 ### Hi there, I'm Jatin Sharma
 
