@@ -8,5 +8,5 @@
 - 💬 Ask me about Analytics
 - 📫 How to reach me: https://www.linkedin.com/in/jatin-sharma-a551611b0/
 - ⚡ Fun fact:   
-- -*I love gym and I am a foodie too*
+      - *I love gym and I am a foodie too*
 
