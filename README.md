@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate on Projects related to Data Science and Analytics
 - 💬 Ask me about Analytics
 - 📫 How to reach me: https://www.linkedin.com/in/jatin-sharma-a551611b0/
-- ⚡ Fun fact: *I love gym and I am a foodie too*
+- ⚡ Fun fact: *I love gym and I am a foodie too....🍔🍕🏋🏽🎧💪🏼*
 
