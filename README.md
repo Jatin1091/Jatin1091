@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50">
 <img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a> I'm Jatin Sharma</h1>
 
-## I'm  astudent, currently pursuing B.Tech (CSE)
+## I'm  a student, currently pursuing B.Tech (CSE)
  
 - 👀 intrested in Analytics and Management Work.
 - 🌱 currently learning Data Science And Analytics.
